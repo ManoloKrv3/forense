@@ -234,12 +234,6 @@ Nos indica que la extracción fue realizada con éxito<br>
 Y damos doble Click para verificar su contenido.<br>
 <img src="https://cybersecuritylaboratory.files.wordpress.com/2016/09/captura70.jpg"><br>
 <br>
-
-
- 
- 
-# Autor
-@svelizdonoso https://github.com/SVelizDonoso/
  
  
  
