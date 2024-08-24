@@ -235,36 +235,7 @@ Y damos doble Click para verificar su contenido.<br>
 <img src="https://cybersecuritylaboratory.files.wordpress.com/2016/09/captura70.jpg"><br>
 <br>
 
-# Respuestas al Caso
-<br><br>
 
-¿Quién es el proveedor de marihuana de Joe Jacobs y cuál es su dirección?<br>
-
-El proveedor es Jimmy Jungle. La dirección es 626 Jungle Ave, Apt 2, Jungle, NY 11111.<br><br>
-
- ¿Qué dato clave está disponible dentro del archivo coverpage.jpg?<br>
-
-Dentro del archivo “coverpage.jpg”, en la parte final de las unidades de asignación del archivo se encuentra el texto “pw=gootimes” el cual corresponde a la contraseña del archivo protegido “Scheduled Visit.exe”.<br><br>
-
-¿Qué otras escuelas secundarios (si hay) adicionales a Smith Hill, frecuenta Joe Jacobs? Frecuenta los siguientes establecimientos <br>secundarios adicionales:<br>
-
-- Key High School (B)
-- Leetch High School (C)
-- Birard High School (D)
-- Richter High School (E)
-- Hull High School (F)
-
-Para cada archivo recuperado, ¿qué proceso fue adelantado por el sospechoso para ocultarlo en el disco?<br>
-
-Borrado de archivo “Jimmy Jungle.doc” Compresión, protección por contraseña y cambio de extensión del archivo  “Schedule Visits.exe”.<br><br>
-
- ¿Qué proceso realizó Ud. como investigador para examinar con éxito el contenido completo de cada archivo?<br>
-
-Recuperación y visualización directa con herramienta Autopsy del archivo “Jimmy Jungle.doc” Extracción con la herramienta Archive Manager a partir de la correcta estructura del directorio FAT12 del archivo “Scheduled Visits.exe”. Descompresión mediante herramienta Winzip y utilización de Excel para visualizar la planilla.<br><br>
-
- ¿Puede decir qué programa fue usado para crear el archivo coverpage.jpg? ¿Cómo lo puede probar?<br>
-
- Se puede deducir que el archivo fue creado mediante una aplicación de Microsoft que maneje conversión de formatos gráficos o escaneo de imágenes. Esta hipótesis se puede probar (en parte para descartar), convirtiendo un archivo BMP a JPG con cualquier otra herramienta distinta a las mencionadas, corroborando así que no es posible generar bloques de comentarios.<br><br>
  
  
 # Autor
